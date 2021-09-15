@@ -1,3 +1,5 @@
+![Capa](https://user-images.githubusercontent.com/31145505/133291287-f89c80de-698f-4828-8063-835ca60e1a92.png)
+
 ## 💻 Sobre o Dias Money
 
 O dias money é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias. Foi desenvolvido durante as aulas do Chapter II da trilha de ReactJS do Bootcamp Ignite da Rocketseat.
